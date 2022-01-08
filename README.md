@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/@sheikhs62703692" target="blank"><img src="https://img.shields.io/twitter/follow/@sheikhs62703692?logo=twitter&style=for-the-badge" alt="@sheikhs62703692" /></a> </p>
 
-- 🔭 I’m currently working on [Dail Pad](git@github.com:kanizsadia/Dail-Pad.git)
+- 🔭 I’m currently working on [Gallery](git@github.com:kanizsadia/Dail-Pad.git)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [Dail Pad](git@github.com:kanizsadia/Dail-Pad.git)
+- 👯 I’m looking to collaborate on [Gallery](git@github.com:kanizsadia/Dail-Pad.git)
 
 - 🤝 I’m looking for help with **Dev API**
 

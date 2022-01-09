@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kanizsadia</h1>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanizsadia)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanizsadia
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/@sheikhs62703692" target="blank"><img src="https://img.shields.io/twitter/follow/@sheikhs62703692?logo=twitter&style=for-the-badge" alt="@sheikhs62703692" /></a> </p>

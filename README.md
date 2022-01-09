@@ -7,7 +7,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanizsadia)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alpondith&show_icons=true&count_private=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kanizsadia)  
+  
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/@sheikhs62703692" target="blank"><img src="https://img.shields.io/twitter/follow/@sheikhs62703692?logo=twitter&style=for-the-badge" alt="@sheikhs62703692" /></a> </p>

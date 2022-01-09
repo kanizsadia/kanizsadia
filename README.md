@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kanizsadia</h1>  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alpondith)  
+
 
 
 

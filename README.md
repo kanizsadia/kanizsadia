@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [Gallery](git@github.com:kanizsadia/Dail-Pad.git)
+- 👯 I’m looking to collaborate on [My-Recipe](git@github.com:kanizsadia/Dail-Pad.git)
 
 - 🤝 I’m looking for help with **Dev API**
 
